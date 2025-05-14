@@ -44,7 +44,7 @@ Diabetes: PIMA Indians Diabetes Dataset
 📂 How to Run
 Clone the repository:
 
- git clone https://github.com/yourusername/disease-prediction-app
+ git clone https://github.com/Harmonyehe/Disease-Prediction-App/tree/main/Edunet
 cd disease-prediction-app
 
 
