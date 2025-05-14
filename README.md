@@ -1,7 +1,9 @@
 🧠 Disease Prediction App
 A Machine Learning-based web application that predicts the likelihood of three major health conditions: Parkinson’s Disease, Heart Disease, and Diabetes. Built as part of the AICTE Virtual Internship Program in collaboration with the Edunet Foundation.
+
 🚀 Project Overview
 This application allows users to input medical data and receive real-time predictions using pre-trained ML models. The aim is to assist in early detection and support medical professionals in preliminary screening.
+
 🩺 Features
 Parkinson’s Disease Prediction using voice measurement features.
 
